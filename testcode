@@ -1,0 +1,13 @@
+  <style>
+      body {background-color:powderblue;}
+      h1 {color:pink;} p {color:green;} </style>
+
+<h1 align="center" class="h1">Much Thank.</h1>
+  <p style="color:purple;" align="center" class="paragraph">How much time will pass before we go back? Is that possible?</p>
+  
+  <body>
+    <h1 style="color:white;" align="center" class="h1">Check out this heading </h1>
+    <p style="color:black;" class="h1">This is a very cool paragraph that includes many words which consist of letters from the English lexicon. </p>
+    <p> This is a green text. 
+    <p style="color:yellow;">Green. 
+      <p style="color:pink;"> And now it is blue. <p style="color:blue;"> Now it is pink? Lies, Lucius!! </p>
